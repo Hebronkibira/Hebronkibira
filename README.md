@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hebronkibira
 - 👀 I’m interested in anything java web, javascript,React and Angular
-- 🌱 I’m currently learning Springboot Security and React 
+- 🌱 I’m currently learning CI/CD 
 - 💞️ I’m looking to collaborate on Spring security projects 
 - 📫 How to reach me gorgekibira@gmail.com
 
